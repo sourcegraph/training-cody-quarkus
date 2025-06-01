@@ -17,7 +17,7 @@ dependencies {
     // Security dependency removed for this example application
     implementation("io.quarkus:quarkus-arc")
     testImplementation("io.quarkus:quarkus-junit5")
-    testImplementation("io.rest-assured:rest-assured:5.3.0")
+    testImplementation("io.rest-assured:rest-assured:5.5.5")
     
     // OpenAPI/Swagger support
     implementation("io.quarkus:quarkus-smallrye-openapi")
