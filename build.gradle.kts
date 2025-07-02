@@ -11,7 +11,7 @@ repositories {
 
 dependencies {
     // Quarkus dependencies
-    implementation(platform("io.quarkus:quarkus-bom:3.9.0"))
+    implementation(platform("io.quarkus:quarkus-bom:3.24.2"))
     implementation("io.quarkus:quarkus-resteasy-reactive-jackson")
     implementation("io.quarkus:quarkus-resteasy-reactive")
     // Security dependency removed for this example application
