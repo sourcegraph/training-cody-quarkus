@@ -1,6 +1,6 @@
 plugins {
     application
-    id("io.quarkus") version "3.9.0"
+    id("io.quarkus") version "3.24.2"
     java
 }
 
