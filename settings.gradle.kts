@@ -8,7 +8,7 @@
 plugins {
     // Apply the foojay-resolver plugin to allow automatic download of JDKs
     id("org.gradle.toolchains.foojay-resolver-convention") version "0.9.0"
-    id("io.quarkus.extension") version "3.9.0" apply false
+    id("io.quarkus.extension") version "3.24.2" apply false
 }
 
 dependencyResolutionManagement {
